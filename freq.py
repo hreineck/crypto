@@ -1,3 +1,4 @@
+#prints the frequency of each letter in the ciphertext
 ciphertext = "lcllewljazlnnzmvyiylhrmhza"
 count = [0]*26;
 for i in range(len(ciphertext)):
