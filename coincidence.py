@@ -1,5 +1,5 @@
 #finds coincidences between columns at possible key lengths
-ciphertext = list("xkjurowmllpxwznpimbvbqjcnowxpcchhvvfvsllfvxhazityxohulxqojaxelxzxmyjaqfstsrulhhucdskbxknjqidallpqslluhiaqfpbpcidsvcihwhwewthbtxrljnrsncihuvffuxvoukjljswmaqfvjwjsdyljogjxdboxajultucpzmpliwmlubzxvoodybafdskxgqfadshxnxehsaruojaqfpfkndhsaafvulluwtaqfrupwjrszxgpfutjqiynrxnyntwmhcukjfbirzsmehhsjshyonddzzntzmplilrwnmwmlvuryonthuhabwnvw")
+ciphertext = list("cipher")
 cl = len(ciphertext)
 for l in range(1,21):
     coincidences = 0
