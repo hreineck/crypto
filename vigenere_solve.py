@@ -1,5 +1,5 @@
-ciphertext = list("xkjurowmllpxwznpimbvbqjcnowxpcchhvvfvsllfvxhazityxohulxqojaxelxzxmyjaqfstsrulhhucdskbxknjqidallpqslluhiaqfpbpcidsvcihwhwewthbtxrljnrsncihuvffuxvoukjljswmaqfvjwjsdyljogjxdboxajultucpzmpliwmlubzxvoodybafdskxgqfadshxnxehsaruojaqfpfkndhsaafvulluwtaqfrupwjrszxgpfutjqiynrxnyntwmhcukjfbirzsmehhsjshyonddzzntzmplilrwnmwmlvuryonthuhabwnvw")
-key = list("bdohj")
+ciphertext = list("ciphertext")
+key = list("key")
 i = 0
 while i < len(ciphertext):
     for j in range(len(key)):
