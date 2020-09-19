@@ -1,4 +1,4 @@
-#brute force a shift cipher
+#solves a shift cipher
 ciphertext = list("ciphertext")
 key = 7
 for i in range(len(ciphertext)):
