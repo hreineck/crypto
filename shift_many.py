@@ -1,3 +1,4 @@
+#brute forces a shift cipher
 for k in range(26):
     ciphertext = list("zkngzr")
     key = k
